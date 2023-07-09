@@ -1,0 +1,1 @@
+# moore_penrose_ojisan
